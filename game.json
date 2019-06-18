@@ -26,6 +26,12 @@
 			"type": "script",
 			"path": "script/main.js",
 			"global": true
+		},
+		"rock": {
+			"type": "image",
+			"width": 75,
+			"height": 47,
+			"path": "image/rock.png"
 		}
 	},
 	"environment": {
